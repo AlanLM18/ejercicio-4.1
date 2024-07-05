@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contenedor div{
+    display: flex;
+    height: 100PX;
+    width: 100px;
+    background-color: beige;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.caja1{
+    background-color: cornflowerblue;
+}
+.caja2{
+    background-color: aquamarine;
+
+}
+.caja3{
+    background-color: blue;
+
+}
+div{
+    text-align: center;
+}
